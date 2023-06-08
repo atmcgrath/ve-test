@@ -8,6 +8,8 @@ This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatti
 
 .ve-media wc:The_Bug_Peek.jpg full
 
+.ve-media wc:Lukmanierpass,_Passo_del_Lucomagno._20-09-2022._(actm.)_04.jpg
+
 The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
 This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
