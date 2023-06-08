@@ -24,7 +24,7 @@ Image information can be seen when hovering the cursor over the info icon locate
 
 ## Chitwan National Park, Nepal
 
-.ve-map 27.5,84.333  width=50%
+.ve-map 27.5,84.333  width=50% right
     - Q1075023
 
 The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
