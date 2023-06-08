@@ -1,8 +1,8 @@
-.ve-header "Essay Title" background=#5B152E
+.ve-header "A visual essay" background=#5B152E
 
-# Hello, Juncture
+# This is Alice's essay
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+This Juncture essay illustrates the use of a few ==Markdown =={Q1193600 } formatting tags and the incorporation of an image and a map into a Juncture essay.
 
 ## Aulacophora indica
 
