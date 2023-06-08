@@ -4,6 +4,10 @@
 
 This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.
 
+Owls are interesting.
+
+.ve-media https://www.loc.gov/item/2007687055/manifest.json left
+
 ## Aulacophora indica
 
 .ve-media wc:The_Bug_Peek.jpg full
