@@ -8,6 +8,11 @@ This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatti
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
 
+## A map
+
+.ve-map 40.00729,-75.28458 12
+    - geojson=map.geoson layer="Ardmore and Bryn Mawr" color=blue
+
 ## Aulacophora indica
 
 .ve-media wc:The_Bug_Peek.jpg full
