@@ -10,12 +10,7 @@ Owls are interesting and complex creatures. This one isn't real. The owls are no
 
 ## A map
 
-.ve-map 40.00729,-75.28458 12
-    - geojson=https://github.com/atmcgrath/atmcgrath.github.io/blob/master/map.geojson layer="Ardmore and Bryn Mawr"
-
-## Another map
-
-.ve-map 40.00729,-75.28458 12
+.ve-map 40.00729,-75.28458 13
     - geojson=https://atmcgrath.github.io/map.geojson layer="Ardmore and Bryn Mawr"
 
 ## Aulacophora indica
