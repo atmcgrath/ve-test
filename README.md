@@ -4,6 +4,7 @@
 
 ## {.tabs style=height:600px}
 
+### Intro
 
 This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.
 
@@ -14,7 +15,7 @@ Owls are interesting and complex creatures. This one isn't real. The owls are no
 ### A map
 
 .ve-map 40.00729,-75.28458 14
-    - geojson=https://atmcgrath.github.io/map.geojson layer="Ardmore and Bryn Mawr" color=red
+    - geojson=https://atmcgrath.github.io/map.geojson layer="Ardmore and Bryn Mawr" color=blue
 
 ### Aulacophora indica
 
@@ -32,10 +33,12 @@ Image controls are located in the top-left corner of the image and can be seen w
 
 Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
-### Chitwan National Park, Nepal
+### Other map
+
+#### Chitwan National Park, Nepal
 
 .ve-map 27.5,84.333 right
-    - Q1075023
+    - Q1075023 marker
     - https://www.loc.gov/item/2007687055/manifest.json
     - https://www.loc.gov/item/2007687055/manifest.json
     - https://www.loc.gov/item/2007687055/manifest.json
@@ -45,3 +48,23 @@ The map is centered on the Chitwan National Park in Nepal, which is the location
 An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
 
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+
+## More options
+
+"I am so sorry for you, Alan," he murmured, "but you leave me no alternative. I have a letter written already. Here it is. You see the address. If you don't help me, I must send it. If you don't help me, I will send it. You know what the result will be. But you are going to help me. It is impossible for you to refuse now. I tried to spare you. You will do me the justice to admit that. You were stern, harsh, offensive. You treated me as no man has ever dared to treat me--no living man, at any rate. I bore it all. Now it is for me to dictate terms."
+
+### Nuclear power {.cards}
+
+#### History
+
+Campbell buried his face in his hands, and a shudder passed through him.
+
+#### Accidents
+
+"No, Alan, you must not leave the house. Write out on a sheet of notepaper what you want and my servant will take a cab and bring the things back to you."
+
+#### Present & Future
+
+"Yes, it is my turn to dictate terms, Alan. You know what they are. The thing is quite simple. Come, don't work yourself into this fever. The thing has to be done. Face it, and do it."
+
+
