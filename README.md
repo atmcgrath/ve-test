@@ -2,18 +2,21 @@
 
 # This is Alice's essay
 
+## {.tabs style=height:600px}
+
+
 This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.
 
 .ve-media https://www.loc.gov/item/2007687055/manifest.json right
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
 
-## A map
+### A map
 
 .ve-map 40.00729,-75.28458 14
     - geojson=https://atmcgrath.github.io/map.geojson layer="Ardmore and Bryn Mawr" color=red
 
-## Aulacophora indica
+### Aulacophora indica
 
 .ve-media wc:The_Bug_Peek.jpg full
 
@@ -21,13 +24,15 @@ The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; sub
 
 This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
 
+### More image
+
 Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
 .ve-media https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~351963~90119134/manifest 
 
 Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
-## Chitwan National Park, Nepal
+### Chitwan National Park, Nepal
 
 .ve-map 27.5,84.333 right
     - Q1075023
