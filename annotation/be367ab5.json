@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "e7833d2e"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Houses",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/be367ab50fe2b037874ac1f6d1b736b1d2b8147e1350f69ab63c47df744ce753",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3506.630859375,264.57049560546875,611.91162109375,576.0325317382812"
+      },
+      "id": "be367ab5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4cbec684"
   }
 ]
